@@ -13,7 +13,7 @@ This is a Next.js application that allows users to search for products on Allegr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/allegro-product-search.git
+    git clone https://github.com/aleksander-pankow/allegro-product-search.git
     cd allegro-product-search
     ```
 
